@@ -4,6 +4,7 @@ org.libav.avcodec
 org.libav.avcodec.bridge
 org.libav.avformat
 org.libav.avformat.bridge
+org.libav.avutil
 org.libav.avutil.bridge
 org.libav.bridge
 org.libav.data
@@ -11,7 +12,6 @@ org.libav.net
 org.libav.net.rtsp
 org.libav.net.rtsp.message
 org.libav.net.sdp
-org.libav.samples
 org.libav.swscale
 org.libav.swscale.bridge
 org.libav.util
