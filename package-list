@@ -4,6 +4,8 @@ org.libav.avcodec
 org.libav.avcodec.bridge
 org.libav.avformat
 org.libav.avformat.bridge
+org.libav.avresample
+org.libav.avresample.bridge
 org.libav.avutil
 org.libav.avutil.bridge
 org.libav.bridge
